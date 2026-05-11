@@ -20,7 +20,7 @@ Developed by: NITESH BHANDARI K
 RegisterNumber:  212225240101
 */
 
-```
+
 
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
@@ -67,7 +67,7 @@ classification_report_output = classification_report(y_test, y_pred)
 print("Classification Report:\n", classification_report_output)
 
 
-```
+
 ```
 
 ## Output:
